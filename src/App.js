@@ -1,8 +1,9 @@
 import React from 'react';
+import './App.css'
 
 function App() {
   return (
-    <main className='App'>
+    <main className='content'>
       <header>
         <h1>THE STAR WARS API</h1>
       </header>
