@@ -13,7 +13,7 @@ function App() {
           <option>Planets</option>
           <option>Spaceships</option>
           <option>Vehicles</option>
-          <option>Characters</option>
+          <option>People</option>
           <option>Films</option>
           <option>Species</option>
         </select>
