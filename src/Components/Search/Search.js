@@ -17,6 +17,7 @@ class Search extends React.Component {
             <option>Films</option>
             <option>Species</option>
           </select>
+          <input></input>
           <button>Submit</button>
         </form>
         
